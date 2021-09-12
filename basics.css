@@ -1,0 +1,30 @@
+/*This is a single line comment*/
+
+body {
+  background-color: lightblue;
+  background-image: url("https://i.pinimg.com/originals/d0/04/28/d00428efa0bf27b9edd37eac32dfd2c1.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 500px 400px;
+  border-bottom: 5px solid red;
+  border-left: 4px dotted blue;
+  border-right: double;
+  border-top: 5px solid green;
+
+}
+
+p{
+	 font-family: Arial, Helvetica, sans-serif;
+	 font-size: 15px;
+	 
+}
+
+#heading{
+	text-align: center;
+}
+
+#para{
+text-align: center;
+}
+
